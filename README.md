@@ -60,7 +60,7 @@ Student-Management-System
 python main.py
 ```
 
-## 📚 What I Learned
+##  What I Learned
 
 While building this project I practiced and improved my understanding of:
 
@@ -75,7 +75,7 @@ While building this project I practiced and improved my understanding of:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Graphical interface using Streamlit
 * Object-Oriented Programming (OOP)
@@ -85,7 +85,7 @@ While building this project I practiced and improved my understanding of:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 Zarmina Rehman
 Computer Science Student (4th semester)
 Currently learning Python, Data Science, and Machine Learning.
