@@ -1,0 +1,26 @@
+[
+    {
+        "roll_number": 1,
+        "name": "Zarmina Rehman",
+        "father_name": "Rahman Ullah",
+        "cnic": "15302-999999-0",
+        "gender": "female",
+        "phone_number": 3109999
+    },
+    {
+        "roll_number": 2,
+        "name": "Eman",
+        "father_name": "Rehman",
+        "cnic": "15302-88888-0",
+        "gender": "female",
+        "phone_number": 3404
+    },
+    {
+        "roll_number": 3,
+        "name": "Ahmad khan",
+        "father_name": "rahman ullah",
+        "cnic": "15302-77777-0",
+        "gender": "male",
+        "phone_number": 48
+    }
+]
