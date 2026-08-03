@@ -2,7 +2,7 @@
 import json
 
 def load_Students():
-    file=open("student.txt","r")
+    file=open("student.json","r")
     # data=file.read() we will remove this because json read the file it self
     students_load=json.load(file)
     file.close()
@@ -11,7 +11,7 @@ def load_Students():
 
 
 def save_Students(students):
-   file=open("student.txt","w")
+   file=open("student.json","w")
    json.dump(students,file,indent=4)
 #json.dump(students,file,indent=4) this do 3 jobs at once:1. Takes your Python list
 # 2. Converts it into JSON  3. Writes it into the file 
