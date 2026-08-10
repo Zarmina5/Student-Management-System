@@ -22,13 +22,5 @@
         "cnic": "15302-77777-0",
         "gender": "male",
         "phone_number": 48
-    },
-    {
-        "roll_number": 56,
-        "name": "Ahmad khan ",
-        "father_name": "Rahman Ullah",
-        "cnic": "347945",
-        "gender": "male",
-        "phone_number": 3140000000
     }
 ]
